@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_htc_m7spr",
+    "target_path": "vendor/htc/m7spr"
+  },
+  {
     "repository": "android_device_htc_m7-common",
     "target_path": "device/htc/m7-common"
   }
